@@ -70,3 +70,5 @@ knn.score(x_test,y_test)
 
 
 aaaaaaaa
+
+jjjjj
