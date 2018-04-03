@@ -67,3 +67,6 @@ from sklearn.neighbors import KNeighborsClassifier
 knn=KNeighborsClassifier(n_neighbors = 5, metric='euclidean')
 knn.fit(x_train_1,y_train_1)
 knn.score(x_test,y_test)
+
+
+aaaaaaaa
